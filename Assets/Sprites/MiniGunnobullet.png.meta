@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 2493732fa5e2a0f439a4bfe06c973976
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3999301299806012560
+    second: MiniGunnobullet_0
+  - first:
+      213: -5649586007764118021
+    second: MiniGunnobullet_1
+  - first:
+      213: -428067161649911305
+    second: MiniGunnobullet_2
+  - first:
+      213: -2686968776933766102
+    second: MiniGunnobullet_3
+  - first:
+      213: -5047025621595926215
+    second: MiniGunnobullet_4
+  - first:
+      213: 6660391777972689052
+    second: MiniGunnobullet_5
+  - first:
+      213: 4723150796241443443
+    second: MiniGunnobullet_6
+  - first:
+      213: -4827973023884796690
+    second: MiniGunnobullet_7
+  - first:
+      213: 2895502370729043330
+    second: MiniGunnobullet_8
+  - first:
+      213: -977286393002131859
+    second: MiniGunnobullet_9
+  - first:
+      213: -986662951047128072
+    second: MiniGunnobullet_10
+  - first:
+      213: -1720058573729376203
+    second: MiniGunnobullet_11
+  - first:
+      213: -6560673649853280130
+    second: MiniGunnobullet_12
+  - first:
+      213: -4830192003082977826
+    second: MiniGunnobullet_13
+  - first:
+      213: 5916434285324748054
+    second: MiniGunnobullet_14
+  - first:
+      213: 5215271222038275815
+    second: MiniGunnobullet_15
+  - first:
+      213: 269425232493120744
+    second: MiniGunnobullet_16
+  - first:
+      213: 5275174644573554556
+    second: MiniGunnobullet_17
+  - first:
+      213: 3660335780716277647
+    second: MiniGunnobullet_18
+  - first:
+      213: -3755348403990022399
+    second: MiniGunnobullet_19
+  - first:
+      213: 4599664009928864520
+    second: MiniGunnobullet_20
+  - first:
+      213: 3960504516324077150
+    second: MiniGunnobullet_21
+  - first:
+      213: 2461590278731357086
+    second: MiniGunnobullet_22
+  - first:
+      213: -7449813649088799531
+    second: MiniGunnobullet_23
+  - first:
+      213: 4984159277330443017
+    second: MiniGunnobullet_24
+  - first:
+      213: 1843216787207300545
+    second: MiniGunnobullet_25
+  - first:
+      213: -1177906488404659608
+    second: MiniGunnobullet_26
+  - first:
+      213: 444393733019149262
+    second: MiniGunnobullet_27
+  - first:
+      213: 7190572679976659507
+    second: MiniGunnobullet_28
+  - first:
+      213: 8212084884567971338
+    second: MiniGunnobullet_29
+  - first:
+      213: -8164874794590850973
+    second: MiniGunnobullet_30
+  - first:
+      213: 1670507016407314020
+    second: MiniGunnobullet_31
+  - first:
+      213: -2832776537245440934
+    second: MiniGunnobullet_32
+  - first:
+      213: -2148010948088245526
+    second: MiniGunnobullet_33
+  - first:
+      213: -211090946763528069
+    second: MiniGunnobullet_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniGunnobullet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 27
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bfd4338a0af78c0800000000000000
+      internalID: -3999301299806012560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 27
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5d33f6573a891b0800000000000000
+      internalID: -5649586007764118021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 27
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9e8d93f233f0af0800000000000000
+      internalID: -428067161649911305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 27
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c0c403228f5bad0800000000000000
+      internalID: -2686968776933766102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 27
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931da7cffec55f9b0800000000000000
+      internalID: -5047025621595926215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 27
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c989ef6a8077e6c50800000000000000
+      internalID: 6660391777972689052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 27
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a1396ff900c8140800000000000000
+      internalID: 4723150796241443443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 27
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec9d2e4d189ffcb0800000000000000
+      internalID: -4827973023884796690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 27
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2852b9da014ee2820800000000000000
+      internalID: 2895502370729043330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_9
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 27
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ef845143bff62f0800000000000000
+      internalID: -977286393002131859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 27
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb1cc9064bae42f0800000000000000
+      internalID: -986662951047128072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 27
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538def727df1128e0800000000000000
+      internalID: -1720058573729376203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 27
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70da3d431ec3f4a0800000000000000
+      internalID: -6560673649853280130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 27
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd7e43f6f5b7fcb0800000000000000
+      internalID: -4830192003082977826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 24
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61549b9c2a56b1250800000000000000
+      internalID: 5916434285324748054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 27
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6a8e47b8d506840800000000000000
+      internalID: 5215271222038275815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 27
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec874c42d03db300800000000000000
+      internalID: 269425232493120744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 27
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7744f1e36f253940800000000000000
+      internalID: 5275174644573554556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 24
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fee30dfff1cc230800000000000000
+      internalID: 3660335780716277647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 27
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1073854f58252ebc0800000000000000
+      internalID: -3755348403990022399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 27
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80375f50c0a45df30800000000000000
+      internalID: 4599664009928864520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 27
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ea3dabfd986f630800000000000000
+      internalID: 3960504516324077150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 24
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b56520153592220800000000000000
+      internalID: 2461590278731357086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 27
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc943bf4f1fc9890800000000000000
+      internalID: -7449813649088799531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 24
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90baf3d947a4b2540800000000000000
+      internalID: 4984159277330443017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_25
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 27
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c52785f6eb649910800000000000000
+      internalID: 1843216787207300545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_26
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 27
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86233042a4c37afe0800000000000000
+      internalID: -1177906488404659608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_27
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 27
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec32405eebdca2600800000000000000
+      internalID: 444393733019149262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_28
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 27
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a23a151cb0ac360800000000000000
+      internalID: 7190572679976659507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_29
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 27
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06570a61bf27f170800000000000000
+      internalID: 8212084884567971338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_30
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 40
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3603fd832a980be80800000000000000
+      internalID: -8164874794590850973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_31
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 27
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e61cbd745de2710800000000000000
+      internalID: 1670507016407314020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_32
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 41
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54ac618fb4ffa8d0800000000000000
+      internalID: -2832776537245440934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_33
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 27
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2dc816c6bb032e0800000000000000
+      internalID: -2148010948088245526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGunnobullet_34
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 27
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78ebdef6ed021df0800000000000000
+      internalID: -211090946763528069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MiniGunnobullet_0: -3999301299806012560
+      MiniGunnobullet_1: -5649586007764118021
+      MiniGunnobullet_10: -986662951047128072
+      MiniGunnobullet_11: -1720058573729376203
+      MiniGunnobullet_12: -6560673649853280130
+      MiniGunnobullet_13: -4830192003082977826
+      MiniGunnobullet_14: 5916434285324748054
+      MiniGunnobullet_15: 5215271222038275815
+      MiniGunnobullet_16: 269425232493120744
+      MiniGunnobullet_17: 5275174644573554556
+      MiniGunnobullet_18: 3660335780716277647
+      MiniGunnobullet_19: -3755348403990022399
+      MiniGunnobullet_2: -428067161649911305
+      MiniGunnobullet_20: 4599664009928864520
+      MiniGunnobullet_21: 3960504516324077150
+      MiniGunnobullet_22: 2461590278731357086
+      MiniGunnobullet_23: -7449813649088799531
+      MiniGunnobullet_24: 4984159277330443017
+      MiniGunnobullet_25: 1843216787207300545
+      MiniGunnobullet_26: -1177906488404659608
+      MiniGunnobullet_27: 444393733019149262
+      MiniGunnobullet_28: 7190572679976659507
+      MiniGunnobullet_29: 8212084884567971338
+      MiniGunnobullet_3: -2686968776933766102
+      MiniGunnobullet_30: -8164874794590850973
+      MiniGunnobullet_31: 1670507016407314020
+      MiniGunnobullet_32: -2832776537245440934
+      MiniGunnobullet_33: -2148010948088245526
+      MiniGunnobullet_34: -211090946763528069
+      MiniGunnobullet_4: -5047025621595926215
+      MiniGunnobullet_5: 6660391777972689052
+      MiniGunnobullet_6: 4723150796241443443
+      MiniGunnobullet_7: -4827973023884796690
+      MiniGunnobullet_8: 2895502370729043330
+      MiniGunnobullet_9: -977286393002131859
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
